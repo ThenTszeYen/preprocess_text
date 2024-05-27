@@ -9,10 +9,10 @@ textblob
 emot.emo_unicode
 wget
 Install package
-pip install git+ssh://git@github.com/HwaiTengTeoh/preprocess_text.git
+pip install git+ssh://git@github.com/ThenTszeYen/preprocess_text.git
 
 Update package
-pip install --upgrade git+ssh://git@github.com/HwaiTengTeoh/preprocess_text.git
+pip install --upgrade git+ssh://git@github.com/ThenTszeYen/preprocess_text.git
 
 Uninstall package
 pip uninstall preprocess_text
